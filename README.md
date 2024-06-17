@@ -1,4 +1,4 @@
-##👋, I'm Restart! (he/him)
+## 👋, I'm Restart! (he/him)
 Hello, I'm Restart! I'm 16, from the UK, and I like anything to do with computers!
 
 <!--
