@@ -1,6 +1,7 @@
 ## 👋, I'm Restart! (he/him)
 Hello, I'm Restart! I'm 16, from the UK, and I like anything to do with computers!
 
+![Restart's GitHub stats](https://github-readme-stats.vercel.app/api?username=RestartB&show_icons=true&theme=tokyonight)
 <!--
 **RestartB/RestartB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
