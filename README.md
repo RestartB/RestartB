@@ -1,5 +1,5 @@
 ## 👋, I'm Restart! (he/him)
-Hello, I'm Restart! I'm 16, from the UK, and I like anything to do with computers! My main language is Python - I dabble in HTML and CSS, and I want to learn JS!
+Hello, I'm Restart! I'm 16, from the UK, and I like anything to do with computers! My main languages are Python, HTML and CSS, and I am learning JS!
 
 ![Restart's GitHub stats](https://github-readme-stats.vercel.app/api?username=RestartB&show_icons=true&theme=tokyonight)
 <!--
