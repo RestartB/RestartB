@@ -1,5 +1,5 @@
 ## 👋, I'm Restart! (he/him)
-Hi, I'm Restart! I'm a 17 year old from the UK. I love computing, programming and networking! My main project is currently the [Titanium Discord Bot](https://github.com/restartb/titanium), an open source and multipurpose Discord bot written in discord.py.
+Hi, I'm Restart! I'm a 17 year old from the UK. I love computing, programming and networking! My main projects are the [Titanium Discord Bot](https://github.com/RestartB/Titanium), an open source and multipurpose Discord bot written in discord.py, and [DeviceGalaxy](https://github.com/RestartB/DeviceGalaxy), a website that lets you track and share your device collection.
 
 ![Restart's GitHub stats](https://github-readme-stats.vercel.app/api?username=RestartB&show_icons=true&theme=tokyonight)
 <!--
